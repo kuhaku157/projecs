@@ -1,0 +1,2 @@
+# projecs
+latihan pemprograman
